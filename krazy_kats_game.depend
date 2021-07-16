@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1449675415 source:c:\users\giovani rodriguez\desktop\other\current\krazy_kats_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdexcept>
+
+1450200877 source:c:\users\kciscisco\desktop\krazy_kats_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdexcept>
+
+1449705239 source:c:\users\giovani rodriguez\desktop\other\current\krazy_kats_game\krazy_kats_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdexcept>
+
+1449768605 source:c:\users\giovani rodriguez\desktop\other\current\krazy_kats_game\krazy_kats_game\krazy_kats_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdexcept>
+
+1450197869 source:c:\users\luis\desktop\krazy_kats_game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdexcept>
+
