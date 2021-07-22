@@ -5,8 +5,6 @@ This game was built for my introduction to C++ back in fall of 2015 at Miami Dad
 ## Demo
 ![gif](https://i.imgur.com/SsXR6H8.gif)
 
-## (Under Construction)
-
 ## Build
 ```bash
 g++ main.cpp -lWinmm
